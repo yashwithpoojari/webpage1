@@ -1,7 +1,9 @@
 <html>
   <head>
-    <title>creating web page</title>
+    <title>creating webpage</title>
   </head>
-  <body>
+  <body bgcolor="yellow">
+  <img src=3.jpg>
+  <p>welcome to vaibhav's webpage </p>
   </body>
 </html>
